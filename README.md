@@ -32,3 +32,5 @@ The repository is organized into four primary notebooks, ranging from baseline i
     Open any of the `.ipynb` files in Jupyter Lab or Google Colab to begin the training and evaluation process.
 
 ---
+
+*Note: We use torch-geometric to load the datasets. 
